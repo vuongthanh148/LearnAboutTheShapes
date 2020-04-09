@@ -1,6 +1,6 @@
 if(!global.start){
 	shader_set(shaderBlur);
-	shader_set_uniform_f(usize,5000,5000,8);//width,height,radius
+	shader_set_uniform_f(usize,8000,8000,12);//width,height,radius
 }
 draw_self();
 draw_set_font(cauhoi);

@@ -1,7 +1,27 @@
- draw_text(20,300,string("X: ")+string(x) );
-if(x ==  200) {
-	direction = point_direction(100,0,0,0);
-	speed = 0.5;
-	//x = 200;
+/*if(global.run){
+with(asset_get_index(string("oBall") + string(global.activeball))) {
+		x += 2;
+		if(x>=300){
+			global.activeball -= 1;
+			global.run = !global.run;
+			draw_self();
+		}
+	}
+}*/
+
+if(global.run){
+	//if(firstAns == true){
+		with(asset_get_index("oBall" + string(global.activeBall))){
+			//draw_text(0,300, string(x));
+			x += global.ballSpeed;
+			if(x >= (725 - 22 * (10 - global.activeBall))){
+				//show_message("alo thangn gu");
+				global.run = false;
+				//global.ballSpeed = 0;
+				global.activeBall -= 1;
+			}
+		 }
+		 if(global.activeBall == 0) global.Win = true;
+	//}
+	//else if(!firstAns) firstAns = true;
 }
-if(direction = point_direction(100,0,0,0) and x == 0) speed = 0;

@@ -1,0 +1,2 @@
+
+activeball -= 1;
