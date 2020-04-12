@@ -19,7 +19,7 @@ if(global.answered and global.rightAns){
 			speedUp = false;
 		} 
 		if(direction == point_direction(1,0,0,0) and x <= initPosition + 170 and x > initPosition + 165) speed = 0;
-		if(timer >= room_speed * 6){
+		if(timer >= room_speed * 6.5){
 			timer = 0;
 			x = 515;
 		}

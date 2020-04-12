@@ -6,9 +6,11 @@ if( global.start){
 		global.answered = true
 		chosenRight = 1;
 		global.rightAnsBall = true;
+		global.wrongAnsBall = false;
 	}
 	else{
 		chosenRight = 0;
 		global.wrongAnsBall = true;
+		global.rightAnsBall = false;
 	}
 }	

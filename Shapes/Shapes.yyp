@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "2a3f2687-7637-4297-aa0d-de7513f5d0c2",
+            "Value": {
+                "id": "f156cd96-5d4a-40c1-982f-24d71c1921b8",
+                "resourcePath": "sprites\\sFinishScreen\\sFinishScreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2a9e978f-49fa-4b53-8876-b0aec3282854",
             "Value": {
                 "id": "2d1e9311-e7a8-419a-b91d-192cddc53541",
@@ -319,6 +327,14 @@
             }
         },
         {
+            "Key": "4b18f70a-3972-47de-9f74-876b5da57929",
+            "Value": {
+                "id": "d965d84c-00e8-4d59-9c81-30412f3f0458",
+                "resourcePath": "fonts\\finish\\finish.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "4c15ff30-a7e9-40fe-a91b-1a581a0a6d69",
             "Value": {
                 "id": "10079962-4638-43c3-b88f-11a24b4cb8ce",
@@ -383,6 +399,22 @@
             }
         },
         {
+            "Key": "636392d4-0c63-4559-af1f-bf09458edd0e",
+            "Value": {
+                "id": "2013d569-51c7-4008-894a-f8fde141e174",
+                "resourcePath": "sprites\\sfinishButton\\sfinishButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "67981344-9776-4900-836b-f6243d999bd8",
+            "Value": {
+                "id": "c8855333-f8eb-4bd2-b9d8-eb147e60a71d",
+                "resourcePath": "objects\\oFinishLogo\\oFinishLogo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "68a2b32f-761d-4cb6-a1ae-745d69e9e4f1",
             "Value": {
                 "id": "4347e624-afb3-46e6-a69e-d283063ee65b",
@@ -428,6 +460,14 @@
                 "id": "0aea9d19-7899-4ef4-91f4-d83c47f1d51d",
                 "resourcePath": "options\\html5\\options_html5.yy",
                 "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "77001065-e0ed-4a4b-853f-6ff46171a8ce",
+            "Value": {
+                "id": "0fe8c019-73fd-48d5-9f14-d186fa0a05ac",
+                "resourcePath": "objects\\oFinishButton\\oFinishButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -615,6 +655,14 @@
             }
         },
         {
+            "Key": "aabe195f-5f7f-49e7-a5bb-3c2cc4c437b5",
+            "Value": {
+                "id": "505ed777-2993-4d9d-9bd8-1c256b1ed1e0",
+                "resourcePath": "objects\\oPauseScreen\\oPauseScreen.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ab643382-a180-4fa6-a4c7-4faf1313daf6",
             "Value": {
                 "id": "2b9cbeae-1188-495f-9f9a-5608a78b84b5",
@@ -751,6 +799,14 @@
             }
         },
         {
+            "Key": "de37a718-0a7e-46d9-8c89-2d6574761c44",
+            "Value": {
+                "id": "56f67d8e-94af-492b-8a42-ed3c5047e9fe",
+                "resourcePath": "objects\\oFinishScreen\\oFinishScreen.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e19df16b-4570-43d5-a209-8e4723e8122e",
             "Value": {
                 "id": "87caedde-5996-47a3-bd99-36b863be275b",
@@ -772,6 +828,14 @@
                 "id": "f42ad38c-939a-45af-826f-bb9a56ee97cc",
                 "resourcePath": "objects\\oButtonOK2\\oButtonOK2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e9663e7d-1665-4b81-94da-edd1990c3177",
+            "Value": {
+                "id": "fe647497-9648-41ba-814b-848eb7e6f799",
+                "resourcePath": "sprites\\sFinishLogo\\sFinishLogo.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

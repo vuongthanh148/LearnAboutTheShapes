@@ -15,3 +15,4 @@ global.Win = false;
 
 global.activeBall = 10;		//Qua bong dang duoc chon hien tai
 global.ballSpeed = 10;
+

@@ -20,12 +20,12 @@ if(global.answered and global.rightAns){
 		} 
 		if(direction == point_direction(0,0,1,0) and x >= initPosition - 170 and x < initPosition - 165) speed = 0;
 	}
-	//if(timer > room_speed * 5) 
-	if(timer >= room_speed * 6){
+	if(timer >= room_speed * 6.5){
 		timer = 0;
 		x = 515;
 		global.imageIndex += 1;
-		if(global.imageIndex = 4) global.imageIndex = 0;
+		if(global.imageIndex == 2) global.start = false;
+		if(global.imageIndex == 4) global.imageIndex = 0;
 		global.rightAns = false;
 		global.answered = false;
 		global.enableAns = true;
