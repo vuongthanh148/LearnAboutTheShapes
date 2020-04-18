@@ -1,0 +1,2 @@
+
+global.hover = false;
