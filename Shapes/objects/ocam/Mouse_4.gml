@@ -1,0 +1,1 @@
+if(!global.finish) room_goto(Start1);
