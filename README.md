@@ -10,4 +10,10 @@ Phần mềm sử dụng: <br/>
   
 Sản phẩm:<br/>
   Link tải: https://drive.google.com/open?id=1wXa4PglyX-4tGEbL3C-1Nxfimd36ZrkS <br/>
+  Một số hình ảnh: <br/>
+  ![alt text](https://github.com/vuongthanh148/LearnAboutTheShapes/blob/master/Learn%20the%20Shape%20%204_28_2020%2009_24_04.png?raw=true)
+  ![alt text](https://github.com/vuongthanh148/LearnAboutTheShapes/blob/master/Learn%20the%20Shape%20%204_28_2020%2009_24_31.png?raw=true)
+  ![alt text](https://github.com/vuongthanh148/LearnAboutTheShapes/blob/master/Learn%20the%20Shape%20%204_28_2020%2009_25_10.png?raw=true)
+  ![alt text](https://github.com/vuongthanh148/LearnAboutTheShapes/blob/master/Learn%20the%20Shape%20%204_28_2020%2009_30_05.png?raw=true)
+  ![alt text](https://github.com/vuongthanh148/LearnAboutTheShapes/blob/master/Learn%20the%20Shape%20%204_28_2020%2009_31_15.png?raw=true)
   
