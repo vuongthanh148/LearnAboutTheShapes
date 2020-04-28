@@ -1,6 +1,6 @@
 if(!global.start){
 	shader_set(shaderBlur);
-	shader_set_uniform_f(usize,1003,1003,0.7);//width,height,radius
+	shader_set_uniform_f(usize,1030,2000,0.8);//width,height,radius
 }
 else shader_reset();
 

@@ -24,7 +24,7 @@ if(global.answered and global.rightAns){
 		timer = 0;
 		x = 515;
 		global.imageIndex += 1;
-		if(global.imageIndex == 2) global.start = false;
+		//if(global.imageIndex == 2) global.start = false;
 		if(global.imageIndex == 4) global.imageIndex = 0;
 		global.rightAns = false;
 		global.answered = false;
