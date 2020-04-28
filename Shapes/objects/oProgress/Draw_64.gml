@@ -16,7 +16,7 @@ if(global.rightAnsBall){
 					//global.ballSpeed = 0;
 					global.activeBall -= 1
 					global.timerBall = 0;
-					if(global.activeBall == 8){
+					if(global.activeBall == 0){
 						global.finish = true; 
 						//room_goto(Home);
 					}
