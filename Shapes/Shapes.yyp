@@ -255,11 +255,27 @@
             }
         },
         {
+            "Key": "30439b82-1b73-45be-81f5-0285a3f317a7",
+            "Value": {
+                "id": "790a14aa-0122-4ebc-a745-8658724d5c9c",
+                "resourcePath": "objects\\oUnitTests\\oUnitTests.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "30611d89-7cbf-4018-a65e-061e04e5838e",
             "Value": {
                 "id": "6311c371-f12a-4675-99e1-3d69bcc5293e",
                 "resourcePath": "sprites\\sAns2\\sAns2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "30902281-f53a-486e-b2b4-43c377d3c0d5",
+            "Value": {
+                "id": "2b4e2ac0-0f55-47a6-a280-8a54868ba0ca",
+                "resourcePath": "scripts\\ac_assert_equal\\ac_assert_equal.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -455,6 +471,14 @@
             }
         },
         {
+            "Key": "52518248-1cfc-426d-9484-13e8ac3c6dbb",
+            "Value": {
+                "id": "7a788d4b-396a-4422-b712-f1cc3bd6915c",
+                "resourcePath": "views\\52518248-1cfc-426d-9484-13e8ac3c6dbb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "588d7db4-74a2-4d67-9dbf-cea7f4fe3563",
             "Value": {
                 "id": "9748387c-8574-40d7-8b88-361298281f9a",
@@ -580,6 +604,22 @@
                 "id": "be899bc6-bd49-429d-81de-0fc33450d61b",
                 "resourcePath": "views\\6b422119-dc1a-48e5-8bdc-df24b99b89e8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6bdd103e-d0cf-48a1-b73e-af895571dd2e",
+            "Value": {
+                "id": "0771d3a1-fd78-4978-964f-c5b26340f4c1",
+                "resourcePath": "rooms\\rUnitTests\\rUnitTests.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "719cb1d2-a8ba-4fb1-afda-f74709b297b5",
+            "Value": {
+                "id": "a9fa4c37-1de4-492d-95ca-8c04655462ff",
+                "resourcePath": "scripts\\ac_unit_tests\\ac_unit_tests.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -855,6 +895,14 @@
             }
         },
         {
+            "Key": "a602e6b3-ae51-4096-9c42-be8f1b25af0e",
+            "Value": {
+                "id": "0012e0e3-3ebc-47b0-ab9c-84c2bca6881f",
+                "resourcePath": "scripts\\ac_assert_true\\ac_assert_true.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a622a80a-a10a-4bab-a73e-b0344ffa13cd",
             "Value": {
                 "id": "b63e49d2-ab72-45d1-98d8-d5677a6e0c81",
@@ -931,6 +979,14 @@
             "Value": {
                 "id": "3854e7f5-084b-4571-a4c8-97ac7b564365",
                 "resourcePath": "views\\b2dada70-438e-42d9-adfc-f3bd21daba27.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b4fe47ee-98bd-40c3-9111-6236c38991b2",
+            "Value": {
+                "id": "19d129a9-7b98-4be8-966c-bede476618d2",
+                "resourcePath": "views\\b4fe47ee-98bd-40c3-9111-6236c38991b2.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -1103,11 +1159,27 @@
             }
         },
         {
+            "Key": "d9538a94-ecf9-4b35-ae20-c6267f86cdba",
+            "Value": {
+                "id": "07fc11be-0db1-48f5-82b5-7c4604defcf4",
+                "resourcePath": "scripts\\_ac_add_test_result\\_ac_add_test_result.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "db9770ed-f3ab-4c0b-b39f-738f002c6293",
             "Value": {
                 "id": "c72368a8-21ba-4255-ba85-d570a66089e9",
                 "resourcePath": "sounds\\sSquare\\sSquare.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "dc87bb2d-ac80-4c98-ba7e-5990b2da86a2",
+            "Value": {
+                "id": "6159c693-5381-4075-9126-8b39fa218d01",
+                "resourcePath": "scripts\\ac_assert_false\\ac_assert_false.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1180,6 +1252,14 @@
                 "id": "b1ce7476-a45d-40b9-b71d-9a16ed77d710",
                 "resourcePath": "sounds\\sRectangle\\sRectangle.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "ef6f4a03-80bd-40ff-965c-e8efbb88c69c",
+            "Value": {
+                "id": "ab1d72b8-b4b6-45a3-b10b-00cf00441c70",
+                "resourcePath": "datafiles_yy\\GM Unit Testing Library.pdf.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -1288,7 +1368,12 @@
         }
     ],
     "script_order": [
-        "9e6aa60a-2fc2-4d11-86e3-f30d5768197d"
+        "9e6aa60a-2fc2-4d11-86e3-f30d5768197d",
+        "a602e6b3-ae51-4096-9c42-be8f1b25af0e",
+        "dc87bb2d-ac80-4c98-ba7e-5990b2da86a2",
+        "30902281-f53a-486e-b2b4-43c377d3c0d5",
+        "d9538a94-ecf9-4b35-ae20-c6267f86cdba",
+        "719cb1d2-a8ba-4fb1-afda-f74709b297b5"
     ],
     "tutorial": ""
 }

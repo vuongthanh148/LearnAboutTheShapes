@@ -18,6 +18,6 @@ if(global.enableAns){
 	draw_self();
 	draw_set_color(c_black);
 	draw_set_font(answer);
-	draw_text(x - string_width(nameAnswer)/2,y+60,string(nameAnswer));
+	draw_text(x - string_width(nameAnswer)/2,y+50,string(nameAnswer));
 }
 

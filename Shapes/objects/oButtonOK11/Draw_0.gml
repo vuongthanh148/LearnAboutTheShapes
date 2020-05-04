@@ -64,7 +64,7 @@ else{ // chon dap an dung
 	draw_sprite(sAnswerImage,in,256,290);	
 }
 if(global.enableAns){
-	draw_set_font(finish);
+	draw_set_font(loginFont);
 	draw_set_color(c_white);
-	draw_text((287+225)/2 - string_width("OK")/2,420 + 20 - string_height("OK")/2,string("OK"));
+	draw_text((287+225)/2 - string_width("OK")/2,430 - string_height("OK")/2,string("OK"));
 }

@@ -1,5 +1,4 @@
-if(!global.stopFullName){
-	if(keyboard_check(vk_anykey) and string_length(global.fullName) < 20 )
+if(keyboard_check(vk_anykey) and string_length(global.fullName) < 20 )
 	{
 		global.fullName = global.fullName + string(keyboard_string) ;
 		keyboard_string = "";
@@ -21,4 +20,3 @@ if(!global.stopFullName){
 	if(delete_timer != -2){
 		delete_timer ++;
 	}
-}

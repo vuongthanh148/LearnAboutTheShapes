@@ -6,5 +6,5 @@ if(!global.start){
 	draw_self();
 	draw_set_font(loginFont);
 	draw_set_color(c_white);
-	draw_text(x - string_width("Start")/2 - 7,272 + 10 - string_height("Start")/2, string("Start") );
+	draw_text(x - string_width("Start")/2 - 7,282 - string_height("Start")/2, string("Start") );
 }
