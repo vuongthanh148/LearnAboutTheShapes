@@ -11,8 +11,7 @@ if(global.rightAnsBall){
 				//draw_text(0,300, string(x));
 				x += global.ballSpeed;
 				if(x >= (723 - 22 * (10 - global.activeBall))){
-						x = 725 - 22 * (10 - global.activeBall);
-					//show_message("alo thangn gu");
+					x = 725 - 22 * (10 - global.activeBall);				
 					global.rightAnsBall = false;
 					//global.ballSpeed = 0;
 					global.activeBall -= 1

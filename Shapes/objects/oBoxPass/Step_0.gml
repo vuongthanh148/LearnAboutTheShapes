@@ -2,8 +2,8 @@ if(!global.stopPass){
 	if(keyboard_check(vk_anykey) and string_length(global.loginPass) < 20 )
 	{
 		global.loginPass = global.loginPass  + string(keyboard_string);
-		l = string_length(keyboard_string);
-		for(i = 0; i < l;i++){
+		length = string_length(keyboard_string);
+		for(i = 0; i < length;i++){
 			temp += "*";
 		}
 		keyboard_string = "";

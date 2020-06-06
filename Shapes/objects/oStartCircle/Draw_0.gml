@@ -1,14 +1,14 @@
 shader_reset();
 if(!global.start){
 	if(global.hover){
-		s += 0.005;
-		if(s>=1.06) s = 1.06;
+		scale += 0.005;
+		if(scale >= 1.06) scale = 1.06;
 	}
 	else{
-		s -= 0.005;
-		if(s<=1) s = 1;
+		scale -= 0.005;
+		if(scale <= 1) scale = 1;
 	}
-	image_xscale = s;
-	image_yscale = s;
+	image_xscale = scale;
+	image_yscale = scale;
 	draw_self();
 } 

@@ -2,8 +2,8 @@
 	if(color == 1)
 	{
 		draw_set_colour($FF3232FF & $ffffff);
-		var l2C6F5FEA_0=($FF3232FF >> 24);
-		draw_set_alpha(l2C6F5FEA_0 / $ff);
+		var color_shifted_1=($FF3232FF >> 24);
+		draw_set_alpha(color_shifted_1 / $ff);
 
 		draw_set_font(name);
 
@@ -13,8 +13,8 @@
 	else
 	{
 		draw_set_colour($FF000000 & $ffffff);
-		var l5FE6DABA_0=($FF000000 >> 24);
-		draw_set_alpha(l5FE6DABA_0 / $ff);
+		var color_shifted_2=($FF000000 >> 24);
+		draw_set_alpha(color_shifted_2 / $ff);
 
 		draw_set_font(name);
 

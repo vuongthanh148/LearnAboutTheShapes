@@ -1,6 +1,6 @@
 for(i = 0; i<10; i++){
-	s -= 0.01;
-	if(s<=1) s=1;
+	scale -= 0.01;
+	if(scale<=1) scale=1;
 }
 
 if(global.loginMoved == true){

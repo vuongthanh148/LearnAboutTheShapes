@@ -1,4 +1,4 @@
-s = 1;
+scale = 1;
 global.finish = false; // finsh the game
 global.correctAccount = true;
 global.invalid = false;
