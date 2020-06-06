@@ -1,14 +1,14 @@
 if(hover){
-	s += 0.005;
-	if(s >= 1.05) s = 1.05;
+	scale += 0.005;
+	if(scale >= 1.05) scale = 1.05;
 }
 else{
-	s -= 0.005;
-	if(s <= 1) s = 1;
+	scale -= 0.005;
+	if(scale <= 1) scale = 1;
 }
 
-image_xscale = s;
-image_yscale = s;
+image_xscale = scale;
+image_yscale = scale;
 
 draw_self();
 
@@ -24,4 +24,4 @@ else{
 draw_self();
 draw_set_color(c_white);
 draw_set_font(loginFont);
-draw_text_transformed(x - string_width("Sign Up")/2 , 461, string("Sign Up"), s, s, 0);
+draw_text_transformed(x - string_width("Sign Up")/2 , 461, string("Sign Up"), scale, scale, 0);

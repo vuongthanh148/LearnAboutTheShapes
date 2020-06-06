@@ -3,7 +3,9 @@ if(global.nextAns){
 	global.nextAns = false;
 	global.questionIndex += 1;
 	if(global.questionIndex>=10) global.questionIndex = 0;
-	for(i = 0; i < 4; i++){ global.data[i] = true; }
+	for(i = 0; i < 4; i++){ 
+		global.data[i] = true;
+	}
 	global.data[global.typesQuestion[global.questionIndex]-1] = false;
 	global.firstAns = true;
 	for(i = 1;i<=3;i++){
