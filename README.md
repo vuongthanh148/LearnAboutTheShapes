@@ -16,6 +16,7 @@ Phần mềm được làm dựa trên trang web dragonlearn.io
 - `Sản phẩm:`<br/>
   - Link tải: https://drive.google.com/open?id=1wXa4PglyX-4tGEbL3C-1Nxfimd36ZrkS <br/>
   - Link truy cập trực tiếp: https://vuongthanh148.github.io/LearnAboutTheShapes/ <br/>
+  - Video demo: https://youtu.be/Oricj3qW2sM <br/>
   Một số hình ảnh: <br/>
   ![alt text](https://github.com/vuongthanh148/LearnAboutTheShapes/blob/master/Learn%20the%20Shape%20%204_28_2020%2009_24_04.png?raw=true)
   ![alt text](https://github.com/vuongthanh148/LearnAboutTheShapes/blob/master/Learn%20the%20Shape%20%204_28_2020%2009_24_31.png?raw=true)
