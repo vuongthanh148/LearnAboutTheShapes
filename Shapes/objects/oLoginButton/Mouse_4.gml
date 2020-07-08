@@ -61,7 +61,7 @@
 //			file_text_writeln(file);
 //			file_text_write_string(file,global.fullName);
 //			file_text_writeln(file);
-//			room_goto(Home);
+//			room_goto(Home); 
 //			file_text_close(file);
 //		}
 //	}
